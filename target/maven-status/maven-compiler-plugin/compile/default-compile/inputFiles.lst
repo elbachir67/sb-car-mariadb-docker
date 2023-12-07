@@ -1,0 +1,14 @@
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\service\UserDetailsServiceImpl.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\BaseEntity.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\OwnerRepository.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\User.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\Car.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\SecurityConfig.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\Owner.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\web\CarController.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\AccountCredentials.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\SbCar3Application.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\UserRepository.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\service\JwtService.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\domain\CarRepository.java
+C:\codes\some_labs\sb-car-3\src\main\java\com\dam\uasz\sbcar3\web\LoginController.java

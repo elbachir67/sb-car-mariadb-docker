@@ -1,0 +1,13 @@
+com\dam\uasz\sbcar3\domain\BaseEntity.class
+com\dam\uasz\sbcar3\domain\OwnerRepository.class
+com\dam\uasz\sbcar3\SbCar3Application.class
+com\dam\uasz\sbcar3\domain\UserRepository.class
+com\dam\uasz\sbcar3\service\UserDetailsServiceImpl.class
+com\dam\uasz\sbcar3\domain\User.class
+com\dam\uasz\sbcar3\web\LoginController.class
+com\dam\uasz\sbcar3\domain\AccountCredentials.class
+com\dam\uasz\sbcar3\domain\CarRepository.class
+com\dam\uasz\sbcar3\domain\Car.class
+com\dam\uasz\sbcar3\SecurityConfig.class
+com\dam\uasz\sbcar3\service\JwtService.class
+com\dam\uasz\sbcar3\domain\Owner.class
